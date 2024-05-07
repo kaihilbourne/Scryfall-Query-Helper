@@ -1,12 +1,20 @@
 {
   "name": "scryfall-query-helper",
   "version": "1.0.0",
-  "description": "",
+  "description": "Scryfall is a helpful tool for fans of Magic the Gathering, but it can be complicated to use correctly. This project aims to make that process easier.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaihilbourne/Scryfall-Query-Helper.git"
+  },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaihilbourne/Scryfall-Query-Helper/issues"
+  },
+  "homepage": "https://github.com/kaihilbourne/Scryfall-Query-Helper#readme"
 }
